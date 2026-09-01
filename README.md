@@ -5,6 +5,13 @@ deep-learning-based entity matching, recipe preference modeling, and
 mathematical optimization to investigate whether a practical and nutritious
 college meal plan can be constructed for under $50 per week.
 
+## Medium Article
+
+For a detailed walkthrough of the project, methodology, analysis, and findings, check out the accompanying Medium article:
+
+📝 **[I Used Data Science to Feed a College Student for $50 a Week — It Said $8.24 Was Enough](https://medium.com/@jagathjijo01/i-used-data-science-to-feed-a-college-student-for-50-a-week-it-said-8-24-was-enough-4d388507dc71)**
+
+
 ## Final Result
 
 The final optimization produced a nutritionally constrained basket with:
