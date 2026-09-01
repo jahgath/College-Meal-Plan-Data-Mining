@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+openpyxl
+kagglehub
+sentence-transformers
+rapidfuzz
+pulp
+jupyter
