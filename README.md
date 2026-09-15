@@ -5,6 +5,8 @@ deep-learning-based entity matching, recipe preference modeling, and
 mathematical optimization to investigate whether a practical and nutritious
 college meal plan can be constructed for under $50 per week.
 
+[**Find rest of my assignments here**](https://github.com/jahgath/CMPE-255-Data-Mining)
+
 ## Medium Article
 
 For a detailed walkthrough of the project, methodology, analysis, and findings, check out the accompanying Medium article:
